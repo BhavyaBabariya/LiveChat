@@ -1,5 +1,5 @@
 # LiveChat
 
-![Login](img/login.jpg)
-![Register](img/register.jpg)
-![Chat](img/chat.jpg)
+![Login](img/login.JPG)
+![Register](img/register.JPG)
+![Chat](img/chat.JPG)
