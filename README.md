@@ -4,7 +4,7 @@
 
 ## [Live Chat](https://livechat.42web.io/) 
 
-<h1> Images: </h1>
+# Images:
 
 ![Login](img/login.JPG)
 ![Register](img/register.JPG)
