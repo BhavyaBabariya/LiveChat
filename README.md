@@ -2,7 +2,7 @@
 
 <h1> CHAT LINK </h1>
 
-<h3>[Live Chat](https://livechat.42web.io/)</h3> 
+## [Live Chat](https://livechat.42web.io/) 
 
 ![Login](img/login.JPG)
 ![Register](img/register.JPG)
