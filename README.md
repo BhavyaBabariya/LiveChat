@@ -1,6 +1,4 @@
-# LiveChatLink
-
-## [Live Chat](https://livechat.42web.io/) 
+# LiveChat
 
 # Images:
 
